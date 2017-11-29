@@ -1,0 +1,7 @@
+{
+	"name": "tweet-server",
+	"dependencies": {
+		"twitter-stream-api": "^0.5.2",
+		"ws": "^3.3.1"
+	}
+}
