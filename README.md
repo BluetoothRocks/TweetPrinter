@@ -2,7 +2,7 @@
 Create a physical stream of tweets using a WebBluetooth receipt printer
 
 
-## What you need?
+## What do you need?
 
 A browser that support WebBluetooth and a receipt printer that supports Bluetooth LE, like:
 
